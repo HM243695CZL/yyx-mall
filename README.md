@@ -1,5 +1,6 @@
 ## yyx商城后端接口
-#### 参照项目【https://github.com/linlinjava/litemall】实现
+#### 参考框架 【https://github.com/macrozheng/mall-tiny】
+#### 参照项目【https://github.com/linlinjava/litemall】
 ### 计划开发菜单
   - 首页
   - 用户管理 【cms】
