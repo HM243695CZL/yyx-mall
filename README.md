@@ -2,21 +2,26 @@
 #### 参照项目【https://github.com/linlinjava/litemall】实现
 ### 计划开发菜单
   - 首页
-  - 用户管理
+  - 用户管理 【cms】
     - 会员管理
     - 收货地址
     - 会员收藏
     - 会员足迹
     - 搜索历史
     - 意见反馈
-  - 商品管理
+  - 商品管理 【pms】
+    - 商品类目
     - 商品列表
     - 商品评论
-  - 推广管理
+    - 订单管理
+    - 售后管理
+    - 通用问题
+    - 关键词
+  - 推广管理 【sms】
     - 优惠券管理
     - 团购规则
     - 团购活动
-  - 系统管理
+  - 系统管理 【ums】
     - 用户管理
     - 操作日志
     - 角色管理
@@ -29,3 +34,10 @@
     - 用户统计
     - 订单统计
     - 商品统计
+    
+#### 模块说明
+ - cms 【Content Management System】 内容管理系统
+ - oms 【Order Management System】 订单管理系统
+ - pms 【Production Management System】商品管理系统
+ - sms 营销管理系统
+ - ums 【User Management System】 用户管理系统
